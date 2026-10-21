@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="Lab4#/Lab4#.csproj" />
+  <Project Path="Task2Library/Task1_2Library.csproj" />
+  <Project Path="Task3Library/Task1_3Library.csproj" />
+  <Project Path="Task4Library/Task1_4Library.csproj" />
+  <Project Path="TaskLibrary/Task1_1Library.csproj" />
+  <Project Path="WindowsFormsLab4#/WindowsFormsLab4#.csproj" Id="77eb2985-b939-47d2-90db-19fe80918018" />
+</Solution>

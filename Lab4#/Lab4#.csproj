@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <RootNamespace>Lab4_</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Task2Library\Task1_2Library.csproj" />
+    <ProjectReference Include="..\Task3Library\Task1_3Library.csproj" />
+    <ProjectReference Include="..\Task4Library\Task1_4Library.csproj" />
+    <ProjectReference Include="..\TaskLibrary\Task1_1Library.csproj" />
+  </ItemGroup>
+
+</Project>
